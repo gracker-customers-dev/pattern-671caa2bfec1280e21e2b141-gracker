@@ -1,0 +1,57 @@
+projectName: >-
+  Top <number> <cybersecurity_threat> Prevention Strategies for
+  <industry_vertical>
+jsonFilePath: ./input.json
+baseUrl: https://www.dell.com
+portalHeading: Enhance Your Cybersecurity with GrackerAI
+portalDescription: Leverage AI-driven strategies to combat cybersecurity threats effectively.
+portalTitle: AI-Driven Cybersecurity Solutions
+searchPlaceholder: Search for cybersecurity solutions...
+useAlphabetsCategory: true
+homeLink: https://www.dell.com
+logoLink: /
+ctaText: Get Started
+aboutLink: https://www.dell.com/about
+productsLink: https://www.dell.com/products
+logoImgUrl: https://www.dell.com/_astro/logo-white.DuNP12gY_Z22gpAz.svg
+ctaLink: https://portal.gracker.ai/
+copyrightText: '&copy; Copyright 2024, Gracker.'
+faviconUrl: https://www.dell.com/favicon.ico
+googleTagManagerId: GTM-MB8NQN6
+pagesTitle:
+  prefix: ''
+  suffix: ''
+categoryPagesTitle:
+  prefix: ''
+  suffix: ''
+templateRoot:
+  - ./templates
+  - ./templates
+homeTemplatePath: ./templates/homePageTemplate.ejs
+categoryTemplatePath: ./templates/categoryTemplate.ejs
+pageTemplatePath: ./templates/pagesTemplate.ejs
+outputDir: ./output
+socialLinks:
+  - platform: LinkedIn
+    url: https://www.linkedin.com/company/gracker-ai/
+  - platform: Twitter
+    url: https://x.com/grackerAI
+  - platform: Instagram
+    url: https://www.instagram.com/grackerai/
+theme:
+  primaryColor: '#0076D6'
+  secondaryColor: '#005B99'
+  backgroundColor: '#F5F5F5'
+  textColor: '#333333'
+  accentColor: '#FF5722'
+fonts:
+  - family: Poppins
+    weights:
+      - 400
+      - 500
+      - 600
+  - family: Inter
+    weights:
+      - 400
+      - 500
+      - 600
